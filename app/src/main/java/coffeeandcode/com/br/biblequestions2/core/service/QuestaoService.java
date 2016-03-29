@@ -3,10 +3,11 @@ package coffeeandcode.com.br.biblequestions2.core.service;
 import android.content.Context;
 import android.database.Cursor;
 
-import coffeeandcode.com.br.biblequestions.core.database.DaoUtils;
-import coffeeandcode.com.br.biblequestions.core.database.Database;
-import coffeeandcode.com.br.biblequestions.core.database.ProjectDao;
-import coffeeandcode.com.br.biblequestions.core.model.Questao;
+import coffeeandcode.com.br.biblequestions2.core.database.DaoUtils;
+import coffeeandcode.com.br.biblequestions2.core.database.Database;
+import coffeeandcode.com.br.biblequestions2.core.database.ProjectDao;
+import coffeeandcode.com.br.biblequestions2.core.model.Questao;
+
 
 /**
  * Created by Leandro on 28/02/2016.

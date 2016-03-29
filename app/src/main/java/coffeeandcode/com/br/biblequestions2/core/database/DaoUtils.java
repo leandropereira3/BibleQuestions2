@@ -8,9 +8,9 @@ import java.util.Date;
 
 import android.content.ContentValues;
 
-import coffeeandcode.com.br.biblequestions.core.annotations.Column;
-import coffeeandcode.com.br.biblequestions.core.annotations.Table;
-import coffeeandcode.com.br.biblequestions.core.model.Entidade;
+import coffeeandcode.com.br.biblequestions2.core.annotations.Column;
+import coffeeandcode.com.br.biblequestions2.core.annotations.Table;
+import coffeeandcode.com.br.biblequestions2.core.model.Entidade;
 
 
 /**

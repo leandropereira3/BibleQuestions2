@@ -8,7 +8,8 @@ import java.util.List;
 
 import android.database.Cursor;
 
-import coffeeandcode.com.br.biblequestions.core.model.Entidade;
+
+import coffeeandcode.com.br.biblequestions2.core.model.Entidade;
 
 /**
  * @author Leandro

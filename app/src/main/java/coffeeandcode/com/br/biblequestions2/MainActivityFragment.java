@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import coffeeandcode.com.br.biblequestions.core.model.Questao;
-import coffeeandcode.com.br.biblequestions.core.service.QuestaoService;
+import coffeeandcode.com.br.biblequestions2.core.model.Questao;
+import coffeeandcode.com.br.biblequestions2.core.service.QuestaoService;
 
 /**
  * A placeholder fragment containing a simple view.

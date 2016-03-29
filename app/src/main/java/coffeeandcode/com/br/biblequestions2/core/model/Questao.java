@@ -2,8 +2,8 @@ package coffeeandcode.com.br.biblequestions2.core.model;
 
 import android.database.Cursor;
 
-import coffeeandcode.com.br.biblequestions.core.annotations.Column;
-import coffeeandcode.com.br.biblequestions.core.annotations.Table;
+import coffeeandcode.com.br.biblequestions2.core.annotations.Column;
+import coffeeandcode.com.br.biblequestions2.core.annotations.Table;
 
 /**
  * Created by Leandro on 27/02/2016.

@@ -6,8 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MotionEvent;
 
-import coffeeandcode.com.br.biblequestions.core.database.Database;
-import coffeeandcode.com.br.biblequestions.visao.GameModeActivity;
+import coffeeandcode.com.br.biblequestions2.core.database.Database;
+import coffeeandcode.com.br.biblequestions2.visao.GameModeActivity;
 
 public class ApresentacaoActivity extends Activity {
 

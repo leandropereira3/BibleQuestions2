@@ -11,8 +11,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import coffeeandcode.com.br.biblequestions.MainActivity;
-import coffeeandcode.com.br.biblequestions.R;
+import coffeeandcode.com.br.biblequestions2.MainActivity;
+import coffeeandcode.com.br.biblequestions2.R;
 
 public class GameModeActivity extends AppCompatActivity {
 
